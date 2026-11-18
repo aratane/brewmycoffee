@@ -3,4 +3,3 @@
 # so the team can clone and start developing immediately.
 node_modules
 .next
-out
