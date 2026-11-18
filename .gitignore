@@ -1,12 +1,6 @@
+# Generated dependency and build output only.
+# Everything else (source, config, .env, assets, build info) is committed on purpose
+# so the team can clone and start developing immediately.
 node_modules
 .next
 out
-*.tsbuildinfo
-.env
-.env.local
-.env.*.local
-*.log
-.DS_Store
-prisma/*.db
-public/uploads/*
-!public/uploads/.gitkeep
